@@ -12,10 +12,4 @@ Hey there! 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast | Naruto 🍥 Fan
 
-<!--
-**brandontang892/brandontang892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
--->
