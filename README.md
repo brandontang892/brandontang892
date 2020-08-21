@@ -1,6 +1,7 @@
 ### Brandon Tang
 
-[![Linkedin Badge](https://img.shields.io/badge/-brandontang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandontang18/)](https://www.linkedin.com/in/brandontang18/) [![Gmail Badge](https://img.shields.io/badge/-brandon_tang@college.harvard.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brandon_tang@college.harvard.edu)](brandon_tang@college.harvard.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-brandontang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandontang18/)](https://www.linkedin.com/in/brandontang18/) 
+[![Gmail Badge](https://img.shields.io/badge/-brandon_tang@college.harvard.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brandon_tang@college.harvard.edu)](mailto:brandon_tang@college.harvard.edu)
 
 Hey there! 👋
 
