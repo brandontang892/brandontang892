@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-- 🔭 I’m currently working on combining deep reinforcement learning with traditional tree search algorithms for finding optimal training environment modifications (RL Design).
+- 🔭 I’m currently working on combining deep reinforcement learning with traditional tree search algorithms to find optimal training environment modifications (RL Design).
 - 🌱 I’m currently learning about end-to-end memory networks based on RNN architecture, linear programming, and various policy gradient reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals.
 - 📫 How to reach me: brandon_tang@college.harvard.edu
