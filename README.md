@@ -11,10 +11,12 @@ Hey there! 👋
 search algorithms to find optimal training environment modifications (RL Design) for improved <br/>
 agent evaluation performance.  
 - 🌱 I’m currently learning about end-to-end memory networks based on RNN architecture, linear programming, <br/>
-and various policy gradient reinforcement learning algorithms. <img align="right" width="150" height="150" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+and various policy gradient reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 📫 How to reach me: brandon_tang@college.harvard.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast
+
+<img align="right" width="150" height="150" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 
