@@ -10,6 +10,9 @@ Hey there! 👋
 - 🔭 I’m currently working on combining deep reinforcement learning (DRL) with traditional tree <br/>
 search algorithms to find optimal training environment modifications (RL Design) for improved <br/>
 agent evaluation performance.  
+
+<img align="right" width="150" height="150" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
 - 🌱 I’m currently learning about end-to-end memory networks based on RNN architecture, linear programming, <br/>
 and various policy gradient reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
@@ -17,6 +20,6 @@ and various policy gradient reinforcement learning algorithms.
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast
 
-<img align="right" width="150" height="150" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
 
 
