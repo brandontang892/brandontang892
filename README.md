@@ -11,7 +11,7 @@ Hey there! 👋
 - 🌱 Learning about end-to-end RNN memory networks, linear programming/optimization, and various policy gradient reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Running, Ultimate
+- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Running, Guitar
 
 
 
