@@ -14,10 +14,8 @@ agent evaluation performance.
 and various policy gradient reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 📫 How to reach me: brandon_tang@college.harvard.edu
-- 😄 Pronouns: He/Him
-
 <img align="right" width="150" height="150" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-
+- 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast
 
 
