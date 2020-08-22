@@ -12,7 +12,7 @@ Hey there! 👋
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 📫 How to reach me: brandon_tang@college.harvard.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast
+- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Running, Ultimate
 
 
 
