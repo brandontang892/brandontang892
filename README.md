@@ -5,16 +5,14 @@
 
 Hey there! 👋
 
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" width="150" height="150" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">  
 
 - 🔭 I’m currently working on combining deep reinforcement learning (DRL) with traditional tree <br/>
 search algorithms to find optimal training environment modifications (RL Design) for improved <br/>
 agent evaluation performance.  
-
 - 🌱 I’m currently learning about end-to-end memory networks based on RNN architecture, linear programming, <br/>
-and various policy gradient reinforcement learning algorithms. 
-- 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals.
+and various policy gradient reinforcement learning algorithms. <img align="right" width="150" height="150" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+- 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 📫 How to reach me: brandon_tang@college.harvard.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast
