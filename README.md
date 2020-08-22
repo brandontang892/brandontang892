@@ -12,8 +12,4 @@ Hey there! 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Sushi 🍣 and Burrito 🌯 Enthusiast
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width ="150"/> 
-<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width ="150"/>  
-<img src="https://media.giphy.com/media/gjBTgOZiXnwZZjfxIn/giphy.gif" width ="150"/> 
-<img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width ="150"/> 
-<img src="https://media.giphy.com/media/l29afynjUYxm0d8cuh/giphy.gif" width ="150"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/gjBTgOZiXnwZZjfxIn/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/l29afynjUYxm0d8cuh/giphy.gif" width ="150"/>
