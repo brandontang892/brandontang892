@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-brandontang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandontang18/)](https://www.linkedin.com/in/brandontang18/) 
 [![Gmail Badge](https://img.shields.io/badge/-brandon_tang@college.harvard.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brandon_tang@college.harvard.edu)](mailto:brandon_tang@college.harvard.edu)
 
-Hey there! 👋
+Hey there! 👋 I like building things.
 
 <img align="right" width="175" height="175" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">  
 
