@@ -11,7 +11,7 @@ Hey there! 👋 I like building things.
 
 - 🔭 Working on combining deep reinforcement learning (DRL) with multi-agent domains to support information shaping and faciliate agent communication with Harvard SEAS. 
 - 🔭 Conducting computer vision (CV) research in generative adversarial networks (GAN) with the Harvard-MIT Undergraduate Machine Learning Research Group.
-- 🌱 Learning about end-to-end RNN memory networks, linear programming/optimization, and various multi-agent reinforcement learning algorithms. 
+- 🌱 Learning about computer networks, various StyleGAN architectures and multi-agent deep reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Running, Guitar
