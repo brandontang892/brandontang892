@@ -10,8 +10,8 @@ Hey there! 👋 I like building things.
 <img align="right" width="175" height="175" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">  
 
 - 🔭 Working on combining deep reinforcement learning (DRL) with multi-agent domains to support information shaping and faciliate agent communication with Harvard SEAS. 
-- 🔭 Exploring quantization-aware training methods with gradient regularization to encourage uniform and piecewise linear quantization friendly gradient/weight distributions.
-- 🌱 Learning about scaling and compressing neural networks, quantization methods and multi-agent deep reinforcement learning algorithms. 
+- 🔭 Exploring quantization-aware training methods with gradient regularization to encourage UQ/PWLQ-friendly gradient/weight distributions.
+- 🌱 Learning about scaling and compressing neural networks, multi-resolution quantization methods and multi-agent deep reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Running, Guitar
