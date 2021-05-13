@@ -5,7 +5,7 @@
 [![Microsoft Badge](https://img.shields.io/badge/-brandont@mit.edu-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:brandont@mit.edu)](mailto:brandont@mit.edu)
 ![](https://komarev.com/ghpvc/?username=brandontang892&color=orange&style=flat-square)
 
-Hey there! 👋 I like building things.
+Hey there! 👋 
 
 <img align="right" width="175" height="175" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">  
 
