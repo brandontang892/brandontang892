@@ -14,7 +14,7 @@ Hey there! 👋
 - 🌱 Learning about scaling and compressing neural networks, multi-resolution quantization methods and multi-agent deep reinforcement learning algorithms. 
 - 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Running, Guitar
+- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Basketball, Guitar
 
 
 
