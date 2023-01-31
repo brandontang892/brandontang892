@@ -7,14 +7,4 @@
 
 Hey there! 👋 
 
-<img align="right" width="175" height="175" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">  
-
-- 🔭 Working on generalist transformer models to differentiate between human and AI behavior in computer vision and NLP tasks with Kreiman Lab @ Harvard. 
-- 🌱 Learning about scaling and compressing neural networks and multi-agent deep reinforcement learning algorithms. 
-- 💬 Ask me about anything! Always happy to learn new things and meet likeminded individuals. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: 2nd Degree Black Belt in Taekwondo | Tennis, Basketball, Guitar
-
-
-
-
+I'm from Vancouver, Canada, and am currently in Boston finishing up my bachelor's in applied math and master's in computer science. After graduation, I will be working as a Software Engineer at Microsoft at the Silicon Valley Campus in Mountain View, CA. Feel free to reach out if you have any cool ideas or will also be in the Bay area!
