@@ -7,15 +7,15 @@
 
 Hey there! 👋 
 
-## Where am from? 
+### Where am from? 
 
 Vancouver, Canada 🇨🇦, with Shanghai, China as my second home.
 
-## What am I doing now?
+### What am I doing now?
 
 BA in Applied Math and MS in Computer Science at Harvard. Will finish both degrees in May 2023.
 
-## Where does the near future look like?
+### Where does the near future look like?
 
 
 After graduation, I will be working as a Software Engineer at Microsoft at the Silicon Valley Campus in Mountain View, CA. Feel free to reach out if you will also be in the Bay area!
