@@ -7,4 +7,15 @@
 
 Hey there! 👋 
 
-I'm from Vancouver, Canada, and am currently in Boston finishing up my bachelor's in applied math and master's in computer science. After graduation, I will be working as a Software Engineer at Microsoft at the Silicon Valley Campus in Mountain View, CA. Feel free to reach out if you have any cool ideas or will also be in the Bay area!
+## Where am from? 
+
+Vancouver, Canada 🇨🇦, with Shanghai, China as my second home.
+
+## What am I doing now?
+
+BA in Applied Math and MS in Computer Science at Harvard. Will finish both degrees in May 2023.
+
+## Where does the near future look like?
+
+
+After graduation, I will be working as a Software Engineer at Microsoft at the Silicon Valley Campus in Mountain View, CA. Feel free to reach out if you will also be in the Bay area!
