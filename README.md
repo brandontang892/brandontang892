@@ -7,7 +7,7 @@
 
 Hey there! 👋 
 
-### Where am from? 
+### Where am I from? 
 
 Born and raised in Vancouver, Canada 🇨🇦.
 
@@ -19,6 +19,6 @@ MS in Computer Science, BA in Applied Math (Track: Economics and Computer Scienc
  
 Writing a senior thesis about human-AI behavioral differentiation. Will finish both degrees in May 2023.
 
-### Where does the near future look like?
+### What does the near future look like?
 
 After graduation, I will be in Mountain View, CA, as a Software Engineer for Microsoft at the Silicon Valley Campus. Feel free to reach out if you will also be in the Bay area!
