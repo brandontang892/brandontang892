@@ -10,11 +10,13 @@ Hey there! 👋
 ### Where am I from? 
 
 Born and raised in Vancouver, Canada 🇨🇦.
+
 Second home in Shanghai, China 🇨🇳.
 
 ### What am I doing now?
 
 MS in Computer Science, BA in Applied Math (Track: Economics and Computer Science) @ Harvard.
+
 Writing a senior thesis about human-AI behavioral differentiation. Will finish both degrees in May 2023.
 
 ### What does the near future look like?
