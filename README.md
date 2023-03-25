@@ -17,7 +17,7 @@ Second home in Shanghai, China 🇨🇳.
 
 MS in Computer Science, BA in Applied Math (Track: Economics and Computer Science) @ Harvard.
 
-Writing a senior thesis about human-AI behavioral differentiation. Will finish both degrees in May 2023.
+Writing a [senior thesis]([https://www.google.com](https://drive.google.com/file/d/1mC31A64C1iK2hNw_pNdAO1nunPZNvc5_/view?usp=sharing))  about human-AI differentiation. Will finish both degrees in May 2023.
 
 ### What does the near future look like?
 
